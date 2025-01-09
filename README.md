@@ -1,2 +1,2 @@
 # Indian-Restaurants
-This powerbi projects is regarding perfomance of indian restaurants over the country.
+This powerbi project is regarding perfomance of indian restaurants all over the country.
